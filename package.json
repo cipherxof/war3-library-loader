@@ -1,0 +1,8 @@
+{
+  "name": "war3-library-loader",
+  "version": "1.0.0",
+  "description": "Initialize TypeScript libraries for Warcraft III custom maps.",
+  "author": "TriggerHappy",
+  "license": "MIT",
+  "main": "src/index.ts"
+}
